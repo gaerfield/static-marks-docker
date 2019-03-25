@@ -29,3 +29,5 @@ Alternatively:
   * in your repository on github select the "Settings-tab"
   * scroll down to github-pages
   * select
+* browse your site (the pattern is "https://{user}.github.io/{repository})
+  * for example: [https://gaerfield.github.io/static-marks-docker](https://gaerfield.github.io/static-marks-docker)
